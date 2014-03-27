@@ -39,7 +39,7 @@
 activate :livereload
 
 # Methods defined in the helpers block are available in templates
-
+\
 # Slim configuration
 set :slim, {
   :format  => :html5,

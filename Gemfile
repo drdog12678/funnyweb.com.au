@@ -11,3 +11,4 @@ gem "slim", "~> 2.0.0"
 
 gem "compass"
 gem 'bootstrap-sass', '~> 3.1.1'
+gem "therubyracer"
